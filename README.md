@@ -8,11 +8,6 @@ Bloxflip Predictor harnesses the capabilities of Artificial Neural Networks (ANN
 ❗ False Positives: A Brief Note
 False positives can occasionally occur due to outdated virus definitions or heuristic analysis misinterpreting program behavior. Depending on your antivirus software, you might need to temporarily disable it to ensure smooth operation.
 
-🌟 Support and Community
-If you require assistance or want to engage with a vibrant community, join our Discord server:
-
-👉 Discord Server
-
 Your support fuels our progress! Give us a star, and we'll keep innovating to create more exciting gamemode predictors.
 
 📝 License
